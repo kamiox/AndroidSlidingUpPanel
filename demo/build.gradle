@@ -32,6 +32,6 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:13.0.+'
+    compile 'com.android.support:support-v4:18.0.+'
     compile project(':androidslidingup')
 }
